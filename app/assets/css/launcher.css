@@ -3203,7 +3203,6 @@ input:checked + .toggleSwitchSlider:before {
 /* Maintains maximum width on the status bar. */
 #server_status_wrapper {
     display: inline-flex;
-    width: 75px;
 }
 
 /* Span which displays the player count of the selected server. */
@@ -3941,7 +3940,7 @@ input:checked + .toggleSwitchSlider:before {
 /* Stationary image for the spinner. */
 #loadCenterImage {
     position: absolute;
-    width: 277px;
+    width: 150px;
     height: auto;
 }
 
