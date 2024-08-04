@@ -1,5 +1,5 @@
 {
-  "name": "AzarlyaMCLauncher",
+  "name": "azarlyamclauncher",
   "version": "0.0.1",
   "productName": "AzarlyaMC",
   "description": "Modded Minecraft Launcher for AzarlyaMC",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Own0/AzarlyaMCLauncher.git"
   }
 }

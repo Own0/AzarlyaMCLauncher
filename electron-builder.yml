@@ -1,4 +1,4 @@
-appId: 'AzarlyaLauncher'
+appId: 'AzarlyaMCLauncher'
 productName: 'AzarlyaLauncher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
