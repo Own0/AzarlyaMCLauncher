@@ -1,5 +1,5 @@
 appId: 'azarlyalauncher'
-productName: 'AzarlyaLauncher'
+productName: 'Azarlya Games Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2024 Owno & Daniel Scalzi'
