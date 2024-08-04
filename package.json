@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/Own0/AzarlyaMCLauncher",
   "bugs": {
-    "url": "https://www.azarlya.com/minecraft/support/tickets"
+    "url": "https://github.com/Iam-Tasic/AzarlyaMCLauncher/issues"
   },
   "private": true,
   "main": "index.js",
