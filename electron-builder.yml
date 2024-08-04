@@ -39,8 +39,8 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Owno'
-  vendor: 'Owno'
+  maintainer: '0wno'
+  vendor: '0wno'
   synopsis: 'Azarlya Minecraft Launcher'
   description: 'Azarlya Launcher'
   category: 'Game'
