@@ -1,11 +1,11 @@
 {
-  "name": "AzarlyaLauncher",
+  "name": "AzarlyaMCLauncher",
   "version": "0.0.1",
   "productName": "AzarlyaMC",
   "description": "Modded Minecraft Launcher for AzarlyaMC",
-  "author": "0wno & Daniel Scalzi",
+  "author": "Owno & Daniel Scalzi",
   "license": "UNLICENSED",
-  "homepage": "https://www.azarlya.com/minecraft/",
+  "homepage": "https://github.com/Own0/AzarlyaMCLauncher",
   "bugs": {
     "url": "https://www.azarlya.com/minecraft/support/tickets"
   },
